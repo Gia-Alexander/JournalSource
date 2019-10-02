@@ -1,9 +1,9 @@
----
-theme: midnight
-layout: home
-permalink: /home/
-order: 1
----
+!---
+!theme: midnight
+!layout: home
+!permalink: /home/
+!order: 1
+!---
 
 # Welcome to JournalSource
 
