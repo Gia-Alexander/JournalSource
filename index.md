@@ -1,5 +1,5 @@
 ---
-layout: home
+#layout: home
 Title: Home
 Permalink: /Home/
 Order: 1
