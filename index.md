@@ -1,4 +1,4 @@
-
+!layout: home
 
 # Welcome to JournalSource
 
