@@ -6,5 +6,7 @@ twitter_username: Incunabulus
 github_username:  Gia-Alexander
 baseurl: "/JournalSource"
 url: http://gia-alexander.github.io/journalsource
+
+markdown: kramdown
 plugins:
   - jekyll-feed
